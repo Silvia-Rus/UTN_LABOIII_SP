@@ -1,0 +1,104 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Chevrolet",
+      "transaccion": "alquiler",
+      "precio": "70966",
+      "descripcion": "Black",
+      "nroPuertas": "4",
+      "km": "8073",
+      "potencia": "243"
+    },
+    {
+      "id": 2,
+      "titulo": "Buick",
+      "transaccion": "venta",
+      "precio": 71580,
+      "descripcion": "Violet",
+      "nroPuertas": 2,
+      "km": 5579,
+      "potencia": 286
+    },
+    {
+      "id": 3,
+      "titulo": "Audi",
+      "transaccion": "venta",
+      "precio": 54392,
+      "descripcion": "Green",
+      "nroPuertas": 4,
+      "km": 6726,
+      "potencia": 184
+    },
+    {
+      "id": 4,
+      "titulo": "Hyundai",
+      "transaccion": "alquiler",
+      "precio": 46356,
+      "descripcion": "Blue",
+      "nroPuertas": 7,
+      "km": 6611,
+      "potencia": 183
+    },
+    {
+      "id": 5,
+      "titulo": "Ford",
+      "transaccion": "venta",
+      "precio": 46771,
+      "descripcion": "Mauv",
+      "nroPuertas": 4,
+      "km": 248,
+      "potencia": 267
+    },
+    {
+      "id": 6,
+      "titulo": "BMW",
+      "transaccion": "alquiler",
+      "precio": 67342,
+      "descripcion": "Orange",
+      "nroPuertas": 8,
+      "km": 7006,
+      "potencia": 223
+    },
+    {
+      "id": 7,
+      "titulo": "Infiniti",
+      "transaccion": "alquiler",
+      "precio": 77889,
+      "descripcion": "Maroon",
+      "nroPuertas": 4,
+      "km": 9753,
+      "potencia": 152
+    },
+    {
+      "id": 8,
+      "titulo": "Saab",
+      "transaccion": "venta",
+      "precio": 10999,
+      "descripcion": "Mauv",
+      "nroPuertas": 6,
+      "km": 6307,
+      "potencia": 296
+    },
+    {
+      "id": 9,
+      "titulo": "Pontiac",
+      "transaccion": "alquiler",
+      "precio": 87171,
+      "descripcion": "Pink",
+      "nroPuertas": 7,
+      "km": 1628,
+      "potencia": 243
+    },
+    {
+      "id": 10,
+      "titulo": "Chrysler",
+      "transaccion": "venta",
+      "precio": 81665,
+      "descripcion": "Pink",
+      "nroPuertas": 6,
+      "km": 7703,
+      "potencia": 246
+    }
+  ]
+}
